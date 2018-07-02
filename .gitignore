@@ -3,3 +3,4 @@
 bld/
 .vs/
 node_modules
+plugins
